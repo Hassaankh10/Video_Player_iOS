@@ -1,8 +1,8 @@
 //
 //  ViewController.swift
-//  Video_Player
+//  Video_player_iOS
 //
-//  Created by Muhammad hassaan Khan on 21/06/2024.
+//  Created by Muhammad hassaan Khan on 23/06/2024.
 //
 
 import UIKit
